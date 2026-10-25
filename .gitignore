@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.vscode/
+data/creditcard.csv
+models/*.joblib
+models/evaluation_metrics.json
