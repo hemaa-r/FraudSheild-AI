@@ -104,4 +104,4 @@ Actual results depend on the dataset, train/test split, and prediction threshold
 
 ## License
 
-The project code is intended as an educational implementation. Add an appropriate license if you want to specify how others may use, modify, or distribute your code. Dataset terms are separate and governed by the dataset provider's conditions.
+The project code is intended as an educational implementation.
